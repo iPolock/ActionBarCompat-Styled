@@ -9,7 +9,7 @@ technologies: [Android]
 categories:   [ActionBar]
 languages:    [Java]
 solutions:    [Mobile]
-github:       android-ActionBarCompat-Styled
+github:       ActionBarCompat-Styled
 level:        INTERMEDIATE
 icon:         screenshots/big_icon.png
 apiRefs:
